@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Test Automation Sanity Suite">
+	
+	<test name="Chrome Test Cases">
+	
+	<parameter name="Browser" value="chrome"/>
+	
+		<classes>
+			<class name="com.project.qa.TestCases.ResultPageTest"></class>
+			<class name="com.project.qa.TestCases.HomePageTest"></class>
+		</classes>
+		
+	</test>
+</suite>

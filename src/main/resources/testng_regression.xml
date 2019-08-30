@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Test Automation Regression Suite">
+
+<!-- 	<test name="Chrome Test Cases">
+	
+	<parameter name="Browser" value="chrome"/>
+	
+		<classes>
+ 			<class name="com.project.qa.TestCases.ResultPageTest"></class>  
+			<class name="com.project.qa.TestCases.HomePageTest"></class>
+ 			<class name="com.project.qa.TestCases.LandingPageTest"></class> 
+		</classes>
+		
+	</test>	 -->
+	
+	<test name="Firefox Test Cases">
+	
+	<parameter name="Browser" value="firefox"/>
+	
+		<classes>
+  			<class name="com.project.qa.TestCases.ResultPageTest"></class>  
+			<class name="com.project.qa.TestCases.HomePageTest"></class>
+ 			<class name="com.project.qa.TestCases.LandingPageTest"></class> 
+		</classes>
+		
+	</test>	
+	
+<!-- 	<test name="IE Test Cases">
+	
+	<parameter name="Browser" value="IE"/>
+	
+		<classes>
+  			<class name="com.project.qa.TestCases.ResultPageTest"></class>  
+			<class name="com.project.qa.TestCases.HomePageTest"></class>
+ 			<class name="com.project.qa.TestCases.LandingPageTest"></class> 
+		</classes>
+		
+	</test>	
+	
+	<test name="Edge Test Cases">
+	
+	<parameter name="Browser" value="Edge"/>
+	
+		<classes>
+  			<class name="com.project.qa.TestCases.ResultPageTest"></class>  
+			<class name="com.project.qa.TestCases.HomePageTest"></class>
+ 			<class name="com.project.qa.TestCases.LandingPageTest"></class> 
+		</classes>
+		
+	</test>	 -->
+</suite>

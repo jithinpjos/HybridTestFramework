@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Test Automation Regression Suite]" guice-stage="DEVELOPMENT">
+  <test name="Firefox Test Cases(failed)">
+    <parameter name="Browser" value="firefox"/>
+    <classes>
+      <class name="com.project.qa.TestCases.LandingPageTest">
+        <methods>
+          <include name="validatePageTitleTest" invocation-numbers="0"/>
+          <include name="cleanupSuite"/>
+          <include name="setUp"/>
+          <include name="validateSearchResultTest" invocation-numbers="0"/>
+          <include name="setExtent"/>
+          <include name="endReport"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.project.qa.TestCases.LandingPageTest -->
+    </classes>
+  </test> <!-- Firefox Test Cases(failed) -->
+</suite> <!-- Failed suite [Test Automation Regression Suite] -->

@@ -1,0 +1,38 @@
+2019-08-30 18:04:32,306  INFO [main] TestUtility:38 - Application Launched Successfully in the browser: firefox
+2019-08-30 18:04:39,672  INFO [main] ResultPage:50 - Title from the result Page:Selenium - Web Browser Automation
+2019-08-30 18:04:46,651  INFO [main] ResultPage:137 - Browser Terminated
+2019-08-30 18:04:46,652  INFO [main] ResultPage:138 - -----------------------------------------------
+2019-08-30 18:04:52,548  INFO [main] TestUtility:39 - Application Launched Successfully in the browser: firefox
+2019-08-30 18:04:56,262  INFO [main] HomePage:137 - Browser Terminated
+2019-08-30 18:04:56,262  INFO [main] HomePage:138 - -----------------------------------------------
+2019-08-30 18:05:02,165  INFO [main] TestUtility:36 - Application Launched Successfully in the browser: firefox
+2019-08-30 18:05:06,341  INFO [main] HomePage:137 - Browser Terminated
+2019-08-30 18:05:06,341  INFO [main] HomePage:138 - -----------------------------------------------
+2019-08-30 18:05:12,053  INFO [main] TestUtility:39 - Application Launched Successfully in the browser: firefox
+2019-08-30 18:05:15,288  INFO [main] HomePage:137 - Browser Terminated
+2019-08-30 18:05:15,288  INFO [main] HomePage:138 - -----------------------------------------------
+2019-08-30 18:05:21,224  INFO [main] TestUtility:36 - Application Launched Successfully in the browser: firefox
+2019-08-30 18:05:24,993  INFO [main] HomePage:137 - Browser Terminated
+2019-08-30 18:05:24,993  INFO [main] HomePage:138 - -----------------------------------------------
+2019-08-30 18:05:31,991  INFO [main] TestUtility:39 - Application Launched Successfully in the browser: firefox
+2019-08-30 18:05:40,850  INFO [main] LandingPage:137 - Browser Terminated
+2019-08-30 18:05:40,850  INFO [main] LandingPage:138 - -----------------------------------------------
+2019-08-30 18:05:46,728  INFO [main] TestUtility:39 - Application Launched Successfully in the browser: firefox
+2019-08-30 18:05:54,387  INFO [main] LandingPage:137 - Browser Terminated
+2019-08-30 18:05:54,388  INFO [main] LandingPage:138 - -----------------------------------------------
+2019-08-30 18:06:00,314  INFO [main] TestUtility:39 - Application Launched Successfully in the browser: firefox
+2019-08-30 18:06:07,728  INFO [main] LandingPage:137 - Browser Terminated
+2019-08-30 18:06:07,728  INFO [main] LandingPage:138 - -----------------------------------------------
+2019-08-30 18:06:14,053  INFO [main] TestUtility:39 - Application Launched Successfully in the browser: firefox
+2019-08-30 18:06:20,215  INFO [main] LandingPage:137 - Browser Terminated
+2019-08-30 18:06:20,215  INFO [main] LandingPage:138 - -----------------------------------------------
+2019-08-30 18:06:20,275 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2019-08-30 18:06:20,277 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2019-08-30 18:06:20,279 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-30 18:06:20,280 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-30 18:06:20,281 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/jpjose/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-30 18:06:20,516 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2019-08-30 18:06:20,517 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2019-08-30 18:06:20,518 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-30 18:06:20,519 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-30 18:06:20,519 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/jpjose/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
